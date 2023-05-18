@@ -1,4 +1,4 @@
-# ABSTAT-patterns-post-processing-with-ML
+# Effect of heuristic post-processing on knowledge graph profile patterns
 
 Experiment for the effect of heuristic post-processing on knowledge graph profile patterns with ABSTAT.
 
