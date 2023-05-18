@@ -46,6 +46,6 @@ Requirement by service:
 ### Research paper:
 ```commandline
 Title: `Effect of heuristic post-processing on knowledge graph profile patterns`
-Authors: `Farhana Keya, Gollam Rabby, Vojtěch Svátek, Blerina Spahiu`
+Authors: `Gollam Rabby, Farhana Keya, Vojtěch Svátek, Blerina Spahiu`
 Conference: ProLingKNOWER 2023: PROfiling LINGuistic KNOWledgE gRaphs, Vienna, Austria, September 12-15, 2023
 ```
